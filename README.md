@@ -4,7 +4,10 @@
 
 ## HTTP 웹 기본 지식
 #### 인터넷 네트워크 
-* [IP(인터넷 프로토콜)](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/ip.md)
+* [IP(인터넷 프로토콜)](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/IP.md)
+* [TCP/UDP](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/TCP_UDP.md)
+* [PORT](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/PORT.md)
+* [DNS](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/DNS.md)
 
 
 #### 출처
