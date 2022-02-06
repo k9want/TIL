@@ -42,6 +42,15 @@
 * [특별한 정보 헤더](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP-Header(1)/%ED%8A%B9%EB%B3%84%ED%95%9C%20%EC%A0%95%EB%B3%B4%20%ED%97%A4%EB%8D%94.md)
 * [인증](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP-Header(1)/%EC%9D%B8%EC%A6%9D.md)
 * [쿠키(Cookie)](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP-Header(1)/%EC%BF%A0%ED%82%A4.md)
+
+#### HTTP 헤더2(캐시와 조건부 요청)
+* [캐시 기본 동작](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP%20Header(2)/%EC%BA%90%EC%8B%9C%20%EA%B8%B0%EB%B3%B8%20%EB%8F%99%EC%9E%91.md)
+* [검증 헤더와 조건부 요청1](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP%20Header(2)/%EA%B2%80%EC%A6%9D%20%ED%97%A4%EB%8D%94%EC%99%80%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%EC%9A%94%EC%B2%AD1.md)
+* [검증 헤더와 조건부 요청2](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP%20Header(2)/%EA%B2%80%EC%A6%9D%20%ED%97%A4%EB%8D%94%EC%99%80%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%EC%9A%94%EC%B2%AD2.md)
+* [캐시 제어 헤더](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP%20Header(2)/%EC%BA%90%EC%8B%9C%EC%99%80%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%EC%9A%94%EC%B2%AD%20%ED%97%A4%EB%8D%94.md)
+* [프록시 서버](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP%20Header(2)/%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%BA%90%EC%8B%9C.md)
+* [캐시 무효화](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP%20Header(2)/%EC%BA%90%EC%8B%9C%20%EB%AC%B4%ED%9A%A8%ED%99%94.md)
+
 <br/>
 <br/>
 
