@@ -33,7 +33,6 @@
 #### HTTP 상태코드 
 * [HTTP 상태코드](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C/HTTP%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
 
-
 #### HTTP 헤더1(일반 헤더)
 * [표현(Representation)](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP-Header(1)/Representation(%ED%91%9C%ED%98%84).md)
 * [협상(Content negotiation)](https://github.com/k9want/TIL/blob/main/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/HTTP-Header(1)/Content%20negotiation.md)
