@@ -61,7 +61,8 @@
 * [변수의 초기화](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DI/%EB%B3%80%EC%88%98%EC%9D%98%20%EC%B4%88%EA%B8%B0%ED%99%94.md)
 
 #### 객체지향 프로그래밍 II
-
+* [상속](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/%EC%83%81%EC%86%8D.md)
+* [오버라이딩](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
 
 <br/>
 <br/>
