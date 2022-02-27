@@ -65,6 +65,12 @@
 * [오버라이딩(overriding)](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
 * [package와 import](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/package%EC%99%80import.md)
 * [제어자(modifier)](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/%EC%A0%9C%EC%96%B4%EC%9E%90(modifier).md)
+* [다형성(polymorphism)](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/%EB%8B%A4%ED%98%95%EC%84%B1.md)
+* [추상클래스(abstract class)](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+* [인터페이스(interface)](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
+* [내부 클래스(inner class)](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/%EB%82%B4%EB%B6%80%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+
+
 <br/>
 <br/>
 
