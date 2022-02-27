@@ -162,7 +162,6 @@ public - 접근 제한이 전혀 없다.
 
 멤버변수를 private로 제한하고 멤버변수의 값을 읽고 변경할 수 있는(getter & setter) public메서드를 제공함으로써 간접적으로 멤버변수의 값을 다룰 수 있도록 하는 것이 바람직하다. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dcf36e0c-c4fb-4de1-bcd5-4c26714ba5e9/Untitled.png)
 
 ### 생성자의 접근 제어자
 
@@ -174,7 +173,6 @@ public - 접근 제한이 전혀 없다.
 
 대신 내부에서 인스턴스반환 메서드를 public으로 하여 외부에서 해당 클래스의 인스턴스를 사용하도록 할 수 있다. **이 메서드는 public인 동시에 static이어야한다.** 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cac438af-65d3-4483-b10c-d2a6d783ab4e/Untitled.png)
 
 생성자를 통해 직접 인스턴스를 생성하지 못하게 하고 public메서드를 통해 인스턴스에 접근하게 함으로써 사용할 수 있는 **인스턴스의 개수를 제한할 수 있다.**
 
@@ -184,7 +182,6 @@ public - 접근 제한이 전혀 없다.
 
 따라서 이럴 경우에는 클래스 앞에 final을 추가하여 상속할 수 없는 클래스라는 것을 알리는 것이 좋다. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff951e1f-bf4c-47a3-8e61-4bcf9e9a4b91/Untitled.png)
 
 ### 제어자의 조합
 
