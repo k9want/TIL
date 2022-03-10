@@ -69,7 +69,6 @@
 * [인터페이스(interface)](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 * [내부 클래스(inner class)](https://github.com/k9want/TIL/blob/main/%EC%9E%90%EB%B0%94%20%EB%AC%B8%EB%B2%95/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DII/%EB%82%B4%EB%B6%80%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 
-
 <br/>
 <br/>
 
